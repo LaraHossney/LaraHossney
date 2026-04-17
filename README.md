@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=200\&section=header\&text=Lara%20Hossney%20%7C%20passionate%20developer\&fontSize=45\&fontAlignY=35\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:00ff55,100:2c5364\&height=200\&section=header\&text=Lara%20Hossney%20%7C%20passionate%20developer\&fontSize=45\&fontAlignY=35\&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=interactive+systems+%7C+game+development+%7C+UI+logic;building+projects+where+code+shows+real+outcomes" />
