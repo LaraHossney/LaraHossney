@@ -14,7 +14,7 @@ Everything I do comes from my love of tech and games and my passion for working 
 My work focuses on combining:
 
 * UI & design (HTML, CSS, React, Figma)
-* logic & structure (JavaScript, C++, C#, SQL)
+* logic & structure (JavaScript, C++, Python, C#, SQL)
 * gameplay systems (Phaser, Unity, p5.js)
 
 I’m particularly interested in how:
@@ -28,12 +28,12 @@ I’m particularly interested in how:
   My Tech Stack!!
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,cpp,cs,unity,figma,git,sql" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,cpp,cs,unity,figma,git,sql" />
 </p>
 
 **Languages & Tools:**
 
-* JavaScript, C++, C#
+* JavaScript, C++, Python, C#
 * HTML, CSS, React
 * SQL
 * Phaser, Unity, p5.js
@@ -43,9 +43,9 @@ I’m particularly interested in how:
 
 Additional Interests!!
 
-* game design and mechanics
 * digital art and UI prototyping (using Figma)
 * exploring how technical systems shape user experience
+*  game design and mechanics
 * socializing
 * reading
 
